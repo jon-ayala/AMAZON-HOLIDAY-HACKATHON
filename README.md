@@ -2,7 +2,7 @@
 
 Our team project and third-place winner for Galvanize's 2020 holiday Hackathon. 
 
-Applying NLP techniques to Amazon office product reviews to gather insights on customer tone and the emotion behind the reviews, to better GoRemote!'s product offerings.
+Applying NLP techniques to Amazon office product reviews to gather insights on customer tone and the emotion behind the reviews, to improve GoRemote!'s product offerings.
 
 
 Technologies Used: Python(pandas, matplotlib, seaborn, nltk, json, sklearn, textblob, datetime, wordcloud)
